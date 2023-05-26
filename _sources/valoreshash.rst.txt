@@ -1,0 +1,7 @@
+valoreshash module
+==================
+
+.. automodule:: valoreshash
+   :members:
+   :undoc-members:
+   :show-inheritance:

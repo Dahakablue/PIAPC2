@@ -1,0 +1,7 @@
+correo module
+=============
+
+.. automodule:: correo
+   :members:
+   :undoc-members:
+   :show-inheritance:

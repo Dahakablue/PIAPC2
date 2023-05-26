@@ -1,0 +1,7 @@
+numgeo module
+=============
+
+.. automodule:: numgeo
+   :members:
+   :undoc-members:
+   :show-inheritance:
